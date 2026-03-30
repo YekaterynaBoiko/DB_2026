@@ -1,20 +1,25 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.14.36429.23 d17.14
+# SQL Server Management Studio Version 22
+VisualStudioVersion = 18.3.11520.95 d18.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DB_Lab1", "DB_Lab1.csproj", "{A0C659BA-BA21-46AE-B124-F4B12C40A862}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
+		Default|Any CPU = Default|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{A0C659BA-BA21-46AE-B124-F4B12C40A862}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{A0C659BA-BA21-46AE-B124-F4B12C40A862}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0C659BA-BA21-46AE-B124-F4B12C40A862}.Default|Any CPU.ActiveCfg = Release|Any CPU
 		{A0C659BA-BA21-46AE-B124-F4B12C40A862}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A0C659BA-BA21-46AE-B124-F4B12C40A862}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14F79412-8657-4F3E-A768-884EC9A7C083}.Debug|Any CPU.ActiveCfg = Default
+		{14F79412-8657-4F3E-A768-884EC9A7C083}.Default|Any CPU.ActiveCfg = Default
+		{14F79412-8657-4F3E-A768-884EC9A7C083}.Release|Any CPU.ActiveCfg = Default
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
